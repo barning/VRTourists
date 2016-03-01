@@ -1,0 +1,2564 @@
+fileFormatVersion: 2
+guid: 38f60bfda3573477390f2c231fc550d7
+timeCreated: 1452249319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_spritesheet_0
+    21300002: button_spritesheet_1
+    21300004: button_spritesheet_2
+    21300006: button_spritesheet_3
+    21300008: button_spritesheet_4
+    21300010: button_spritesheet_5
+    21300012: button_spritesheet_6
+    21300014: button_spritesheet_7
+    21300016: button_spritesheet_8
+    21300018: button_spritesheet_9
+    21300020: button_spritesheet_10
+    21300022: button_spritesheet_11
+    21300024: button_spritesheet_12
+    21300026: button_spritesheet_13
+    21300028: button_spritesheet_14
+    21300030: button_spritesheet_15
+    21300032: button_spritesheet_16
+    21300034: button_spritesheet_17
+    21300036: button_spritesheet_18
+    21300038: button_spritesheet_19
+    21300040: button_spritesheet_20
+    21300042: button_spritesheet_21
+    21300044: button_spritesheet_22
+    21300046: button_spritesheet_23
+    21300048: button_spritesheet_24
+    21300050: button_spritesheet_25
+    21300052: button_spritesheet_26
+    21300054: button_spritesheet_27
+    21300056: button_spritesheet_28
+    21300058: button_spritesheet_29
+    21300060: button_spritesheet_30
+    21300062: button_spritesheet_31
+    21300064: button_spritesheet_32
+    21300066: button_spritesheet_33
+    21300068: button_spritesheet_34
+    21300070: button_spritesheet_35
+    21300072: button_spritesheet_36
+    21300074: button_spritesheet_37
+    21300076: button_spritesheet_38
+    21300078: button_spritesheet_39
+    21300080: button_spritesheet_40
+    21300082: button_spritesheet_41
+    21300084: button_spritesheet_42
+    21300086: button_spritesheet_43
+    21300088: button_spritesheet_44
+    21300090: button_spritesheet_45
+    21300092: button_spritesheet_46
+    21300094: button_spritesheet_47
+    21300096: button_spritesheet_48
+    21300098: button_spritesheet_49
+    21300100: button_spritesheet_50
+    21300102: button_spritesheet_51
+    21300104: button_spritesheet_52
+    21300106: button_spritesheet_53
+    21300108: button_spritesheet_54
+    21300110: button_spritesheet_55
+    21300112: button_spritesheet_56
+    21300114: button_spritesheet_57
+    21300116: button_spritesheet_58
+    21300118: button_spritesheet_59
+    21300120: button_spritesheet_60
+    21300122: button_spritesheet_61
+    21300124: button_spritesheet_62
+    21300126: button_spritesheet_63
+    21300128: button_spritesheet_64
+    21300130: button_spritesheet_65
+    21300132: button_spritesheet_66
+    21300134: button_spritesheet_67
+    21300136: button_spritesheet_68
+    21300138: button_spritesheet_69
+    21300140: button_spritesheet_70
+    21300142: button_spritesheet_71
+    21300144: button_spritesheet_72
+    21300146: button_spritesheet_73
+    21300148: button_spritesheet_74
+    21300150: button_spritesheet_75
+    21300152: button_spritesheet_76
+    21300154: button_spritesheet_77
+    21300156: button_spritesheet_78
+    21300158: button_spritesheet_79
+    21300160: button_spritesheet_80
+    21300162: button_spritesheet_81
+    21300164: button_spritesheet_82
+    21300166: button_spritesheet_83
+    21300168: button_spritesheet_84
+    21300170: button_spritesheet_85
+    21300172: button_spritesheet_86
+    21300174: button_spritesheet_87
+    21300176: button_spritesheet_88
+    21300178: button_spritesheet_89
+    21300180: button_spritesheet_90
+    21300182: button_spritesheet_91
+    21300184: button_spritesheet_92
+    21300186: button_spritesheet_93
+    21300188: button_spritesheet_94
+    21300190: button_spritesheet_95
+    21300192: button_spritesheet_96
+    21300194: button_spritesheet_97
+    21300196: button_spritesheet_98
+    21300198: button_spritesheet_99
+    21300200: button_spritesheet_100
+    21300202: button_spritesheet_101
+    21300204: button_spritesheet_102
+    21300206: button_spritesheet_103
+    21300208: button_spritesheet_104
+    21300210: button_spritesheet_105
+    21300212: button_spritesheet_106
+    21300214: button_spritesheet_107
+    21300216: button_spritesheet_108
+    21300218: button_spritesheet_109
+    21300220: button_spritesheet_110
+    21300222: button_spritesheet_111
+    21300224: button_spritesheet_112
+    21300226: button_spritesheet_113
+    21300228: button_spritesheet_114
+    21300230: button_spritesheet_115
+    21300232: button_spritesheet_116
+    21300234: button_spritesheet_117
+    21300236: button_spritesheet_118
+    21300238: button_spritesheet_119
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -16.166626}
+        - {x: -17.5, y: -23.166626}
+        - {x: 13.5, y: -23.166626}
+        - {x: 23.5, y: -15.166626}
+        - {x: 23.5, y: 16.833374}
+        - {x: 18.5, y: 23.833374}
+        - {x: -13.5, y: 23.833374}
+        - {x: -23.5, y: 13.833374}
+    - name: button_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333328, y: 23.833374}
+        - {x: -22.333328, y: 10.833374}
+        - {x: -22.333328, y: -15.166626}
+        - {x: -15.333328, y: -23.166626}
+        - {x: 14.666672, y: -23.166626}
+        - {x: 23.666672, y: -15.166626}
+        - {x: 23.666672, y: 17.833374}
+        - {x: 16.666672, y: 23.833374}
+    - name: button_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.833374}
+        - {x: -23.166656, y: 9.833374}
+        - {x: -23.166656, y: -11.166626}
+        - {x: -13.1666565, y: -23.166626}
+        - {x: 13.8333435, y: -23.166626}
+        - {x: 16.833344, y: -22.166626}
+        - {x: 23.833344, y: -8.166626}
+        - {x: 23.833344, y: 12.833374}
+        - {x: 12.8333435, y: 23.833374}
+    - name: button_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 23.833374}
+        - {x: -11.5, y: 23.833374}
+        - {x: -23.5, y: 11.833374}
+        - {x: -23.5, y: -9.166626}
+        - {x: -21.5, y: -15.166626}
+        - {x: -9.5, y: -23.166626}
+        - {x: 15.5, y: -23.166626}
+        - {x: 18.5, y: -22.166626}
+        - {x: 23.5, y: -7.166626}
+        - {x: 23.5, y: 11.833374}
+        - {x: 15.5, y: 22.833374}
+    - name: button_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 18.833374}
+        - {x: 17.666687, y: 23.833374}
+        - {x: -11.333313, y: 23.833374}
+        - {x: -22.333313, y: 19.833374}
+        - {x: -22.333313, y: -10.166626}
+        - {x: -21.333313, y: -15.166626}
+        - {x: -7.333313, y: -23.166626}
+        - {x: 6.666687, y: -23.166626}
+        - {x: 13.666687, y: -21.166626}
+        - {x: 24.666687, y: -11.166626}
+        - {x: 24.666687, y: 11.833374}
+    - name: button_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.166687, y: 23.833374}
+        - {x: -23.166687, y: 12.833374}
+        - {x: -23.166687, y: -20.166626}
+        - {x: -20.166687, y: -23.166626}
+        - {x: 14.833313, y: -23.166626}
+        - {x: 23.833313, y: -17.166626}
+        - {x: 23.833313, y: 12.833374}
+        - {x: 12.833313, y: 23.833374}
+    - name: button_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.833374}
+        - {x: -15.5, y: 22.833374}
+        - {x: -23.5, y: 12.833374}
+        - {x: -23.5, y: -10.166626}
+        - {x: -19.5, y: -23.166626}
+        - {x: 14.5, y: -23.166626}
+        - {x: 23.5, y: -11.166626}
+        - {x: 23.5, y: 11.833374}
+        - {x: 11.5, y: 23.833374}
+    - name: button_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333374, y: 23.833374}
+        - {x: -22.333374, y: 18.833374}
+        - {x: -22.333374, y: -17.166626}
+        - {x: -10.333374, y: -22.166626}
+        - {x: -7.333374, y: -23.166626}
+        - {x: 14.666626, y: -23.166626}
+        - {x: 24.666626, y: -11.166626}
+        - {x: 24.666626, y: 19.833374}
+        - {x: 11.666626, y: 23.833374}
+    - name: button_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.833374, y: 23.833374}
+        - {x: -11.166626, y: 23.833374}
+        - {x: -22.166626, y: 13.833374}
+        - {x: -22.166626, y: -8.166626}
+        - {x: -12.166626, y: -21.166626}
+        - {x: -9.166626, y: -23.166626}
+        - {x: 20.833374, y: -23.166626}
+        - {x: 23.833374, y: -12.166626}
+        - {x: 23.833374, y: 15.833374}
+        - {x: 18.833374, y: 20.833374}
+    - name: button_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 11000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.833374}
+        - {x: -23.5, y: 20.833374}
+        - {x: -23.5, y: -21.166626}
+        - {x: -19.5, y: -23.166626}
+        - {x: 9.5, y: -23.166626}
+        - {x: 23.5, y: -17.166626}
+        - {x: 23.5, y: 11.833374}
+        - {x: 12.5, y: 23.833374}
+    - name: button_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666626}
+        - {x: -23.5, y: 10.666626}
+        - {x: -23.5, y: -5.333374}
+        - {x: -21.5, y: -12.333374}
+        - {x: -10.5, y: -22.333374}
+        - {x: 19.5, y: -22.333374}
+        - {x: 23.5, y: -9.333374}
+        - {x: 23.5, y: 17.666626}
+        - {x: 17.5, y: 23.666626}
+    - name: button_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333328, y: 23.666626}
+        - {x: -22.333328, y: 13.666626}
+        - {x: -22.333328, y: -11.333374}
+        - {x: -16.333328, y: -22.333374}
+        - {x: 19.666672, y: -22.333374}
+        - {x: 23.666672, y: -18.333374}
+        - {x: 23.666672, y: 13.666626}
+        - {x: 18.666672, y: 23.666626}
+    - name: button_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.666626}
+        - {x: -23.166656, y: 14.666626}
+        - {x: -23.166656, y: -16.333374}
+        - {x: -10.1666565, y: -22.333374}
+        - {x: 12.8333435, y: -22.333374}
+        - {x: 23.833344, y: -12.333374}
+        - {x: 23.833344, y: 21.666626}
+        - {x: 22.833344, y: 23.666626}
+    - name: button_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666626}
+        - {x: -23.5, y: 16.666626}
+        - {x: -23.5, y: -8.333374}
+        - {x: -16.5, y: -22.333374}
+        - {x: 10.5, y: -22.333374}
+        - {x: 23.5, y: -15.333374}
+        - {x: 23.5, y: 13.666626}
+        - {x: 16.5, y: 23.666626}
+    - name: button_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 16.666626}
+        - {x: 12.666687, y: 23.666626}
+        - {x: -8.333313, y: 23.666626}
+        - {x: -15.333313, y: 22.666626}
+        - {x: -22.333313, y: 11.666626}
+        - {x: -22.333313, y: -8.333374}
+        - {x: -21.333313, y: -15.333374}
+        - {x: -7.333313, y: -22.333374}
+        - {x: 7.666687, y: -22.333374}
+        - {x: 14.666687, y: -20.333374}
+        - {x: 24.666687, y: -10.333374}
+        - {x: 24.666687, y: 8.666626}
+    - name: button_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.666626}
+        - {x: -21.166687, y: 15.666626}
+        - {x: -23.166687, y: 8.666626}
+        - {x: -23.166687, y: -12.333374}
+        - {x: -10.166687, y: -22.333374}
+        - {x: 19.833313, y: -22.333374}
+        - {x: 23.833313, y: -10.333374}
+        - {x: 23.833313, y: 20.666626}
+        - {x: 12.833313, y: 23.666626}
+    - name: button_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.666626}
+        - {x: -23.5, y: 19.666626}
+        - {x: -23.5, y: -12.333374}
+        - {x: -17.5, y: -22.333374}
+        - {x: 14.5, y: -22.333374}
+        - {x: 23.5, y: -18.333374}
+        - {x: 23.5, y: 17.666626}
+        - {x: 10.5, y: 23.666626}
+    - name: button_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.666626, y: 23.666626}
+        - {x: -17.333374, y: 23.666626}
+        - {x: -22.333374, y: 22.666626}
+        - {x: -22.333374, y: -20.333374}
+        - {x: -14.333374, y: -22.333374}
+        - {x: 16.666626, y: -22.333374}
+        - {x: 23.666626, y: -15.333374}
+        - {x: 24.666626, y: -8.333374}
+        - {x: 24.666626, y: 16.666626}
+    - name: button_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.833374, y: 23.666626}
+        - {x: -12.166626, y: 23.666626}
+        - {x: -22.166626, y: 12.666626}
+        - {x: -22.166626, y: -8.333374}
+        - {x: -13.166626, y: -22.333374}
+        - {x: 12.833374, y: -22.333374}
+        - {x: 23.833374, y: -18.333374}
+        - {x: 23.833374, y: 18.666626}
+        - {x: 12.833374, y: 22.666626}
+    - name: button_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 10000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.666626}
+        - {x: -23.5, y: 10.666626}
+        - {x: -23.5, y: -14.333374}
+        - {x: -13.5, y: -22.333374}
+        - {x: -7.5, y: -23.333374}
+        - {x: 12.5, y: -23.333374}
+        - {x: 23.5, y: -17.333374}
+        - {x: 23.5, y: 17.666626}
+        - {x: 12.5, y: 23.666626}
+    - name: button_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -14.5}
+        - {x: -11.5, y: -25.5}
+        - {x: 20.5, y: -25.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 20.5}
+        - {x: 18.5, y: 23.5}
+    - name: button_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.666672, y: 23.5}
+        - {x: 10.666672, y: 25.5}
+        - {x: -25.333328, y: 25.5}
+        - {x: -25.333328, y: -26.5}
+        - {x: 11.666672, y: -26.5}
+        - {x: 24.666672, y: -16.5}
+        - {x: 27.666672, y: -9.5}
+        - {x: 27.666672, y: 8.5}
+    - name: button_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.166656, y: 27.5}
+        - {x: -27.166656, y: 23.5}
+        - {x: -27.166656, y: -21.5}
+        - {x: -21.166656, y: -28.5}
+        - {x: 24.833344, y: -28.5}
+        - {x: 28.833344, y: -26.5}
+        - {x: 28.833344, y: 24.5}
+        - {x: 25.833344, y: 27.5}
+    - name: button_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 28.5}
+        - {x: -24.5, y: 28.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -13.5, y: -29.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 29.5, y: -19.5}
+        - {x: 29.5, y: 12.5}
+        - {x: 27.5, y: 21.5}
+    - name: button_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.666687, y: 30.5}
+        - {x: -18.333313, y: 30.5}
+        - {x: -29.333313, y: 21.5}
+        - {x: -29.333313, y: -27.5}
+        - {x: -19.333313, y: -31.5}
+        - {x: 17.666687, y: -31.5}
+        - {x: 31.666687, y: -17.5}
+        - {x: 31.666687, y: 10.5}
+        - {x: 25.666687, y: 27.5}
+    - name: button_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.166687, y: 31.5}
+        - {x: -31.166687, y: 29.5}
+        - {x: -31.166687, y: -32.5}
+        - {x: 29.833313, y: -32.5}
+        - {x: 32.833313, y: -22.5}
+        - {x: 32.833313, y: 27.5}
+        - {x: 20.833313, y: 31.5}
+    - name: button_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33.5}
+        - {x: -32.5, y: 25.5}
+        - {x: -33.5, y: 17.5}
+        - {x: -33.5, y: -17.5}
+        - {x: -19.5, y: -31.5}
+        - {x: -15.5, y: -34.5}
+        - {x: 18.5, y: -34.5}
+        - {x: 34.5, y: -29.5}
+        - {x: 34.5, y: 28.5}
+        - {x: 19.5, y: 33.5}
+    - name: button_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.333374, y: 34.5}
+        - {x: -34.333374, y: 24.5}
+        - {x: -34.333374, y: -21.5}
+        - {x: -23.333374, y: -35.5}
+        - {x: 31.666626, y: -35.5}
+        - {x: 36.666626, y: -18.5}
+        - {x: 36.666626, y: 24.5}
+        - {x: 21.666626, y: 34.5}
+    - name: button_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166626, y: 36.5}
+        - {x: -36.166626, y: 32.5}
+        - {x: -36.166626, y: -32.5}
+        - {x: -14.166626, y: -37.5}
+        - {x: 22.833374, y: -37.5}
+        - {x: 37.833374, y: -21.5}
+        - {x: 37.833374, y: 18.5}
+        - {x: 18.833374, y: 36.5}
+    - name: button_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 38.5}
+        - {x: -16.5, y: 38.5}
+        - {x: -37.5, y: 31.5}
+        - {x: -37.5, y: -28.5}
+        - {x: -26.5, y: -38.5}
+        - {x: 27.5, y: -38.5}
+        - {x: 38.5, y: -19.5}
+        - {x: 38.5, y: 15.5}
+        - {x: 36.5, y: 24.5}
+    - name: button_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 39.833374}
+        - {x: -39.5, y: 15.833374}
+        - {x: -39.5, y: -18.166626}
+        - {x: -20.5, y: -39.166626}
+        - {x: 29.5, y: -39.166626}
+        - {x: 39.5, y: -29.166626}
+        - {x: 39.5, y: 21.833374}
+        - {x: 29.5, y: 39.833374}
+    - name: button_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333328, y: 41.833374}
+        - {x: -40.33333, y: 25.833374}
+        - {x: -40.33333, y: -25.166626}
+        - {x: -16.333328, y: -41.166626}
+        - {x: 22.666672, y: -41.166626}
+        - {x: 33.66667, y: -40.166626}
+        - {x: 42.66667, y: -20.166626}
+        - {x: 42.66667, y: 20.833374}
+        - {x: 23.666672, y: 41.833374}
+    - name: button_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.166656, y: 42.833374}
+        - {x: -42.166656, y: 24.833374}
+        - {x: -42.166656, y: -24.166626}
+        - {x: -30.166656, y: -42.166626}
+        - {x: 20.833344, y: -42.166626}
+        - {x: 43.833344, y: -20.166626}
+        - {x: 43.833344, y: 24.833374}
+        - {x: 25.833344, y: 42.833374}
+    - name: button_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 33.833374}
+        - {x: 21.5, y: 44.833374}
+        - {x: -16.5, y: 44.833374}
+        - {x: -43.5, y: 33.833374}
+        - {x: -43.5, y: -18.166626}
+        - {x: -36.5, y: -37.166626}
+        - {x: -16.5, y: -43.166626}
+        - {x: 35.5, y: -43.166626}
+        - {x: 44.5, y: -18.166626}
+        - {x: 44.5, y: 23.833374}
+    - name: button_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.333313, y: 45.833374}
+        - {x: -30.333313, y: 42.833374}
+        - {x: -44.333313, y: 24.833374}
+        - {x: -44.333313, y: -19.166626}
+        - {x: -32.333313, y: -45.166626}
+        - {x: 25.666687, y: -45.166626}
+        - {x: 46.666687, y: -18.166626}
+        - {x: 46.666687, y: 25.833374}
+        - {x: 20.666687, y: 45.833374}
+    - name: button_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.166687, y: 46.833374}
+        - {x: -45.166687, y: 24.833374}
+        - {x: -45.166687, y: -33.166626}
+        - {x: -28.166687, y: -46.166626}
+        - {x: 21.833313, y: -46.166626}
+        - {x: 32.833313, y: -42.166626}
+        - {x: 47.833313, y: -16.166626}
+        - {x: 47.833313, y: 25.833374}
+        - {x: 29.833313, y: 46.833374}
+    - name: button_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 48.833374}
+        - {x: -47.5, y: 30.833374}
+        - {x: -47.5, y: -34.166626}
+        - {x: -37.5, y: -43.166626}
+        - {x: -19.5, y: -47.166626}
+        - {x: 39.5, y: -47.166626}
+        - {x: 48.5, y: -43.166626}
+        - {x: 48.5, y: 48.833374}
+    - name: button_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.333374, y: 49.833374}
+        - {x: -47.333374, y: -38.166626}
+        - {x: -44.333374, y: -48.166626}
+        - {x: 32.666626, y: -48.166626}
+        - {x: 49.666626, y: -33.166626}
+        - {x: 49.666626, y: 30.833374}
+        - {x: 40.666626, y: 49.833374}
+    - name: button_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.166626, y: 50.833374}
+        - {x: -49.166626, y: 25.833374}
+        - {x: -49.166626, y: -25.166626}
+        - {x: -46.166626, y: -35.166626}
+        - {x: -19.166626, y: -49.166626}
+        - {x: 29.833374, y: -49.166626}
+        - {x: 50.833374, y: -32.166626}
+        - {x: 50.833374, y: 23.833374}
+        - {x: 29.833374, y: 50.833374}
+    - name: button_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 51.833374}
+        - {x: -47.5, y: 51.833374}
+        - {x: -50.5, y: 36.833374}
+        - {x: -50.5, y: -50.166626}
+        - {x: 50.5, y: -50.166626}
+        - {x: 51.5, y: -47.166626}
+        - {x: 51.5, y: 18.833374}
+        - {x: 43.5, y: 48.833374}
+    - name: button_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 52.666626}
+        - {x: -48.5, y: 31.666626}
+        - {x: -51.5, y: 19.666626}
+        - {x: -51.5, y: -34.333374}
+        - {x: -45.5, y: -50.333374}
+        - {x: 51.5, y: -50.333374}
+        - {x: 51.5, y: 38.666626}
+        - {x: 37.5, y: 52.666626}
+    - name: button_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.33333, y: 53.666626}
+        - {x: -51.33333, y: 33.666626}
+        - {x: -51.33333, y: -43.333374}
+        - {x: -30.333328, y: -51.333374}
+        - {x: 41.66667, y: -51.333374}
+        - {x: 53.66667, y: -29.333374}
+        - {x: 53.66667, y: 42.666626}
+        - {x: 27.666672, y: 53.666626}
+    - name: button_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.166656, y: 53.666626}
+        - {x: -52.166656, y: -25.333374}
+        - {x: -33.166656, y: -52.333374}
+        - {x: 28.833344, y: -52.333374}
+        - {x: 53.833344, y: -33.333374}
+        - {x: 53.833344, y: 30.666626}
+        - {x: 46.833344, y: 53.666626}
+    - name: button_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 54.666626}
+        - {x: -53.5, y: 30.666626}
+        - {x: -53.5, y: -25.333374}
+        - {x: -32.5, y: -49.333374}
+        - {x: -16.5, y: -52.333374}
+        - {x: 43.5, y: -52.333374}
+        - {x: 53.5, y: -27.333374}
+        - {x: 53.5, y: 40.666626}
+        - {x: 39.5, y: 54.666626}
+    - name: button_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.333313, y: 54.666626}
+        - {x: -51.333313, y: 36.666626}
+        - {x: -52.333313, y: 30.666626}
+        - {x: -52.333313, y: -27.333374}
+        - {x: -41.333313, y: -52.333374}
+        - {x: 40.666687, y: -52.333374}
+        - {x: 54.666687, y: -42.333374}
+        - {x: 54.666687, y: 33.666626}
+        - {x: 41.666687, y: 54.666626}
+    - name: button_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.833313, y: 54.666626}
+        - {x: -26.166687, y: 54.666626}
+        - {x: -53.166687, y: 40.666626}
+        - {x: -53.166687, y: -45.333374}
+        - {x: -48.166687, y: -53.333374}
+        - {x: 41.833313, y: -53.333374}
+        - {x: 54.833313, y: -34.333374}
+        - {x: 54.833313, y: 28.666626}
+        - {x: 52.833313, y: 40.666626}
+    - name: button_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.666626}
+        - {x: -23.5, y: 19.666626}
+        - {x: -23.5, y: -12.333374}
+        - {x: -17.5, y: -22.333374}
+        - {x: 14.5, y: -22.333374}
+        - {x: 23.5, y: -18.333374}
+        - {x: 23.5, y: 17.666626}
+        - {x: 10.5, y: 23.666626}
+    - name: button_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.666626, y: 23.666626}
+        - {x: -17.333374, y: 23.666626}
+        - {x: -22.333374, y: 22.666626}
+        - {x: -22.333374, y: -20.333374}
+        - {x: -14.333374, y: -22.333374}
+        - {x: 16.666626, y: -22.333374}
+        - {x: 23.666626, y: -15.333374}
+        - {x: 24.666626, y: -8.333374}
+        - {x: 24.666626, y: 16.666626}
+    - name: button_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.833374, y: 23.666626}
+        - {x: -12.166626, y: 23.666626}
+        - {x: -22.166626, y: 12.666626}
+        - {x: -22.166626, y: -8.333374}
+        - {x: -13.166626, y: -22.333374}
+        - {x: 12.833374, y: -22.333374}
+        - {x: 23.833374, y: -18.333374}
+        - {x: 23.833374, y: 18.666626}
+        - {x: 12.833374, y: 22.666626}
+    - name: button_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23.666626}
+        - {x: -9.5, y: 23.666626}
+        - {x: -14.5, y: 22.666626}
+        - {x: -23.5, y: 7.666626}
+        - {x: -23.5, y: -11.333374}
+        - {x: -10.5, y: -22.333374}
+        - {x: 13.5, y: -22.333374}
+        - {x: 23.5, y: -9.333374}
+        - {x: 23.5, y: 7.666626}
+        - {x: 21.5, y: 14.666626}
+    - name: button_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 15.5, y: 23.5}
+    - name: button_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.666672, y: 23.5}
+        - {x: -10.333328, y: 23.5}
+        - {x: -20.333328, y: 13.5}
+        - {x: -22.333328, y: 6.5}
+        - {x: -22.333328, y: -8.5}
+        - {x: -17.333328, y: -20.5}
+        - {x: -10.333328, y: -23.5}
+        - {x: 12.666672, y: -23.5}
+        - {x: 23.666672, y: -13.5}
+        - {x: 23.666672, y: 9.5}
+        - {x: 14.666672, y: 22.5}
+    - name: button_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 23.5}
+        - {x: -19.166656, y: 23.5}
+        - {x: -23.166656, y: 12.5}
+        - {x: -23.166656, y: -19.5}
+        - {x: -19.166656, y: -23.5}
+        - {x: 19.833344, y: -23.5}
+        - {x: 23.833344, y: -14.5}
+        - {x: 23.833344, y: 8.5}
+        - {x: 22.833344, y: 14.5}
+    - name: button_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 23.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -15.5, y: -21.5}
+        - {x: -8.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 18.5, y: 23.5}
+    - name: button_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 10.5}
+        - {x: 12.666687, y: 23.5}
+        - {x: -11.333313, y: 23.5}
+        - {x: -15.333313, y: 22.5}
+        - {x: -22.333313, y: 10.5}
+        - {x: -22.333313, y: -12.5}
+        - {x: -11.333313, y: -23.5}
+        - {x: 13.666687, y: -23.5}
+        - {x: 17.666687, y: -22.5}
+        - {x: 24.666687, y: -8.5}
+        - {x: 24.666687, y: 2.5}
+    - name: button_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.5}
+        - {x: -23.166687, y: 11.5}
+        - {x: -23.166687, y: -22.5}
+        - {x: -19.166687, y: -23.5}
+        - {x: 20.833313, y: -23.5}
+        - {x: 23.833313, y: -14.5}
+        - {x: 23.833313, y: 17.5}
+        - {x: 12.833313, y: 23.5}
+    - name: button_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 10.5}
+        - {x: 14.5, y: 23.5}
+    - name: button_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333374, y: 23.5}
+        - {x: -22.333374, y: 16.5}
+        - {x: -22.333374, y: -9.5}
+        - {x: -14.333374, y: -22.5}
+        - {x: -12.333374, y: -23.5}
+        - {x: 15.666626, y: -23.5}
+        - {x: 24.666626, y: -12.5}
+        - {x: 24.666626, y: 20.5}
+        - {x: 20.666626, y: 23.5}
+    - name: button_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.166626, y: 23.5}
+        - {x: -22.166626, y: 14.5}
+        - {x: -22.166626, y: -11.5}
+        - {x: -17.166626, y: -23.5}
+        - {x: 17.833374, y: -23.5}
+        - {x: 23.833374, y: -11.5}
+        - {x: 23.833374, y: 16.5}
+        - {x: 13.833374, y: 23.5}
+    - name: button_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 23.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -23.5, y: 9.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -14.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 12.5, y: 23.5}
+    - name: button_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -16.166687}
+        - {x: -17.5, y: -23.166687}
+        - {x: 13.5, y: -23.166687}
+        - {x: 23.5, y: -15.166687}
+        - {x: 23.5, y: 16.833313}
+        - {x: 18.5, y: 23.833313}
+        - {x: -13.5, y: 23.833313}
+        - {x: -23.5, y: 13.833313}
+    - name: button_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333328, y: 23.833313}
+        - {x: -22.333328, y: 10.833313}
+        - {x: -22.333328, y: -15.166687}
+        - {x: -15.333328, y: -23.166687}
+        - {x: 14.666672, y: -23.166687}
+        - {x: 23.666672, y: -15.166687}
+        - {x: 23.666672, y: 17.833313}
+        - {x: 16.666672, y: 23.833313}
+    - name: button_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.833313}
+        - {x: -23.166656, y: 9.833313}
+        - {x: -23.166656, y: -11.166687}
+        - {x: -13.1666565, y: -23.166687}
+        - {x: 13.8333435, y: -23.166687}
+        - {x: 16.833344, y: -22.166687}
+        - {x: 23.833344, y: -8.166687}
+        - {x: 23.833344, y: 12.833313}
+        - {x: 12.8333435, y: 23.833313}
+    - name: button_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 23.833313}
+        - {x: -11.5, y: 23.833313}
+        - {x: -23.5, y: 11.833313}
+        - {x: -23.5, y: -9.166687}
+        - {x: -21.5, y: -15.166687}
+        - {x: -9.5, y: -23.166687}
+        - {x: 15.5, y: -23.166687}
+        - {x: 18.5, y: -22.166687}
+        - {x: 23.5, y: -7.166687}
+        - {x: 23.5, y: 11.833313}
+        - {x: 15.5, y: 22.833313}
+    - name: button_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 18.833313}
+        - {x: 17.666687, y: 23.833313}
+        - {x: -11.333313, y: 23.833313}
+        - {x: -22.333313, y: 19.833313}
+        - {x: -22.333313, y: -10.166687}
+        - {x: -21.333313, y: -15.166687}
+        - {x: -7.333313, y: -23.166687}
+        - {x: 6.666687, y: -23.166687}
+        - {x: 13.666687, y: -21.166687}
+        - {x: 24.666687, y: -11.166687}
+        - {x: 24.666687, y: 11.833313}
+    - name: button_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.166687, y: 23.833313}
+        - {x: -23.166687, y: 12.833313}
+        - {x: -23.166687, y: -20.166687}
+        - {x: -20.166687, y: -23.166687}
+        - {x: 14.833313, y: -23.166687}
+        - {x: 23.833313, y: -17.166687}
+        - {x: 23.833313, y: 12.833313}
+        - {x: 12.833313, y: 23.833313}
+    - name: button_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.833313}
+        - {x: -15.5, y: 22.833313}
+        - {x: -23.5, y: 12.833313}
+        - {x: -23.5, y: -10.166687}
+        - {x: -19.5, y: -23.166687}
+        - {x: 14.5, y: -23.166687}
+        - {x: 23.5, y: -11.166687}
+        - {x: 23.5, y: 11.833313}
+        - {x: 11.5, y: 23.833313}
+    - name: button_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333374, y: 23.833313}
+        - {x: -22.333374, y: 18.833313}
+        - {x: -22.333374, y: -17.166687}
+        - {x: -10.333374, y: -22.166687}
+        - {x: -7.333374, y: -23.166687}
+        - {x: 14.666626, y: -23.166687}
+        - {x: 24.666626, y: -11.166687}
+        - {x: 24.666626, y: 19.833313}
+        - {x: 11.666626, y: 23.833313}
+    - name: button_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.833374, y: 23.833313}
+        - {x: -11.166626, y: 23.833313}
+        - {x: -22.166626, y: 13.833313}
+        - {x: -22.166626, y: -8.166687}
+        - {x: -12.166626, y: -21.166687}
+        - {x: -9.166626, y: -23.166687}
+        - {x: 20.833374, y: -23.166687}
+        - {x: 23.833374, y: -12.166687}
+        - {x: 23.833374, y: 15.833313}
+        - {x: 18.833374, y: 20.833313}
+    - name: button_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.833313}
+        - {x: -23.5, y: 20.833313}
+        - {x: -23.5, y: -21.166687}
+        - {x: -19.5, y: -23.166687}
+        - {x: 9.5, y: -23.166687}
+        - {x: 23.5, y: -17.166687}
+        - {x: 23.5, y: 11.833313}
+        - {x: 12.5, y: 23.833313}
+    - name: button_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666687}
+        - {x: -23.5, y: 10.666687}
+        - {x: -23.5, y: -5.333313}
+        - {x: -21.5, y: -12.333313}
+        - {x: -10.5, y: -22.333313}
+        - {x: 19.5, y: -22.333313}
+        - {x: 23.5, y: -9.333313}
+        - {x: 23.5, y: 17.666687}
+        - {x: 17.5, y: 23.666687}
+    - name: button_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333328, y: 23.666687}
+        - {x: -22.333328, y: 13.666687}
+        - {x: -22.333328, y: -11.333313}
+        - {x: -16.333328, y: -22.333313}
+        - {x: 19.666672, y: -22.333313}
+        - {x: 23.666672, y: -18.333313}
+        - {x: 23.666672, y: 13.666687}
+        - {x: 18.666672, y: 23.666687}
+    - name: button_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.666687}
+        - {x: -23.166656, y: 14.666687}
+        - {x: -23.166656, y: -16.333313}
+        - {x: -10.1666565, y: -22.333313}
+        - {x: 12.8333435, y: -22.333313}
+        - {x: 23.833344, y: -12.333313}
+        - {x: 23.833344, y: 21.666687}
+        - {x: 22.833344, y: 23.666687}
+    - name: button_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666687}
+        - {x: -23.5, y: 16.666687}
+        - {x: -23.5, y: -8.333313}
+        - {x: -16.5, y: -22.333313}
+        - {x: 10.5, y: -22.333313}
+        - {x: 23.5, y: -15.333313}
+        - {x: 23.5, y: 13.666687}
+        - {x: 16.5, y: 23.666687}
+    - name: button_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 16.666687}
+        - {x: 12.666687, y: 23.666687}
+        - {x: -8.333313, y: 23.666687}
+        - {x: -15.333313, y: 22.666687}
+        - {x: -22.333313, y: 11.666687}
+        - {x: -22.333313, y: -8.333313}
+        - {x: -21.333313, y: -15.333313}
+        - {x: -7.333313, y: -22.333313}
+        - {x: 7.666687, y: -22.333313}
+        - {x: 14.666687, y: -20.333313}
+        - {x: 24.666687, y: -10.333313}
+        - {x: 24.666687, y: 8.666687}
+    - name: button_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.666687}
+        - {x: -21.166687, y: 15.666687}
+        - {x: -23.166687, y: 8.666687}
+        - {x: -23.166687, y: -12.333313}
+        - {x: -10.166687, y: -22.333313}
+        - {x: 19.833313, y: -22.333313}
+        - {x: 23.833313, y: -10.333313}
+        - {x: 23.833313, y: 20.666687}
+        - {x: 12.833313, y: 23.666687}
+    - name: button_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.666687}
+        - {x: -23.5, y: 19.666687}
+        - {x: -23.5, y: -12.333313}
+        - {x: -17.5, y: -22.333313}
+        - {x: 14.5, y: -22.333313}
+        - {x: 23.5, y: -18.333313}
+        - {x: 23.5, y: 17.666687}
+        - {x: 10.5, y: 23.666687}
+    - name: button_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.666626, y: 23.666687}
+        - {x: -17.333374, y: 23.666687}
+        - {x: -22.333374, y: 22.666687}
+        - {x: -22.333374, y: -20.333313}
+        - {x: -14.333374, y: -22.333313}
+        - {x: 16.666626, y: -22.333313}
+        - {x: 23.666626, y: -15.333313}
+        - {x: 24.666626, y: -8.333313}
+        - {x: 24.666626, y: 16.666687}
+    - name: button_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.833374, y: 23.666687}
+        - {x: -12.166626, y: 23.666687}
+        - {x: -22.166626, y: 12.666687}
+        - {x: -22.166626, y: -8.333313}
+        - {x: -13.166626, y: -22.333313}
+        - {x: 12.833374, y: -22.333313}
+        - {x: 23.833374, y: -18.333313}
+        - {x: 23.833374, y: 18.666687}
+        - {x: 12.833374, y: 22.666687}
+    - name: button_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23.666687}
+        - {x: -9.5, y: 23.666687}
+        - {x: -14.5, y: 22.666687}
+        - {x: -23.5, y: 7.666687}
+        - {x: -23.5, y: -11.333313}
+        - {x: -10.5, y: -22.333313}
+        - {x: 13.5, y: -22.333313}
+        - {x: 23.5, y: -9.333313}
+        - {x: 23.5, y: 7.666687}
+        - {x: 21.5, y: 14.666687}
+    - name: button_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 15.5, y: 23.5}
+    - name: button_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.666672, y: 23.5}
+        - {x: -10.333328, y: 23.5}
+        - {x: -20.333328, y: 13.5}
+        - {x: -22.333328, y: 6.5}
+        - {x: -22.333328, y: -8.5}
+        - {x: -17.333328, y: -20.5}
+        - {x: -10.333328, y: -23.5}
+        - {x: 12.666672, y: -23.5}
+        - {x: 23.666672, y: -13.5}
+        - {x: 23.666672, y: 9.5}
+        - {x: 14.666672, y: 22.5}
+    - name: button_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 23.5}
+        - {x: -19.166656, y: 23.5}
+        - {x: -23.166656, y: 12.5}
+        - {x: -23.166656, y: -19.5}
+        - {x: -19.166656, y: -23.5}
+        - {x: 19.833344, y: -23.5}
+        - {x: 23.833344, y: -14.5}
+        - {x: 23.833344, y: 8.5}
+        - {x: 22.833344, y: 14.5}
+    - name: button_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 23.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -15.5, y: -21.5}
+        - {x: -8.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 18.5, y: 23.5}
+    - name: button_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 10.5}
+        - {x: 12.666687, y: 23.5}
+        - {x: -11.333313, y: 23.5}
+        - {x: -15.333313, y: 22.5}
+        - {x: -22.333313, y: 10.5}
+        - {x: -22.333313, y: -12.5}
+        - {x: -11.333313, y: -23.5}
+        - {x: 13.666687, y: -23.5}
+        - {x: 17.666687, y: -22.5}
+        - {x: 24.666687, y: -8.5}
+        - {x: 24.666687, y: 2.5}
+    - name: button_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.5}
+        - {x: -23.166687, y: 11.5}
+        - {x: -23.166687, y: -22.5}
+        - {x: -19.166687, y: -23.5}
+        - {x: 20.833313, y: -23.5}
+        - {x: 23.833313, y: -14.5}
+        - {x: 23.833313, y: 17.5}
+        - {x: 12.833313, y: 23.5}
+    - name: button_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 10.5}
+        - {x: 14.5, y: 23.5}
+    - name: button_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333374, y: 23.5}
+        - {x: -22.333374, y: 16.5}
+        - {x: -22.333374, y: -9.5}
+        - {x: -14.333374, y: -22.5}
+        - {x: -12.333374, y: -23.5}
+        - {x: 15.666626, y: -23.5}
+        - {x: 24.666626, y: -12.5}
+        - {x: 24.666626, y: 20.5}
+        - {x: 20.666626, y: 23.5}
+    - name: button_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.166626, y: 23.5}
+        - {x: -22.166626, y: 14.5}
+        - {x: -22.166626, y: -11.5}
+        - {x: -17.166626, y: -23.5}
+        - {x: 17.833374, y: -23.5}
+        - {x: 23.833374, y: -11.5}
+        - {x: 23.833374, y: 16.5}
+        - {x: 13.833374, y: 23.5}
+    - name: button_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 23.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -23.5, y: 9.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -14.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 12.5, y: 23.5}
+    - name: button_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -16.166656}
+        - {x: -17.5, y: -23.166656}
+        - {x: 13.5, y: -23.166656}
+        - {x: 23.5, y: -15.1666565}
+        - {x: 23.5, y: 16.833344}
+        - {x: 18.5, y: 23.833344}
+        - {x: -13.5, y: 23.833344}
+        - {x: -23.5, y: 13.8333435}
+    - name: button_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333328, y: 23.833344}
+        - {x: -22.333328, y: 10.8333435}
+        - {x: -22.333328, y: -15.1666565}
+        - {x: -15.333328, y: -23.166656}
+        - {x: 14.666672, y: -23.166656}
+        - {x: 23.666672, y: -15.1666565}
+        - {x: 23.666672, y: 17.833344}
+        - {x: 16.666672, y: 23.833344}
+    - name: button_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.833344}
+        - {x: -23.166656, y: 9.8333435}
+        - {x: -23.166656, y: -11.1666565}
+        - {x: -13.1666565, y: -23.166656}
+        - {x: 13.8333435, y: -23.166656}
+        - {x: 16.833344, y: -22.166656}
+        - {x: 23.833344, y: -8.1666565}
+        - {x: 23.833344, y: 12.8333435}
+        - {x: 12.8333435, y: 23.833344}
+    - name: button_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 23.833344}
+        - {x: -11.5, y: 23.833344}
+        - {x: -23.5, y: 11.8333435}
+        - {x: -23.5, y: -9.1666565}
+        - {x: -21.5, y: -15.1666565}
+        - {x: -9.5, y: -23.166656}
+        - {x: 15.5, y: -23.166656}
+        - {x: 18.5, y: -22.166656}
+        - {x: 23.5, y: -7.1666565}
+        - {x: 23.5, y: 11.8333435}
+        - {x: 15.5, y: 22.833344}
+    - name: button_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 18.833344}
+        - {x: 17.666687, y: 23.833344}
+        - {x: -11.333313, y: 23.833344}
+        - {x: -22.333313, y: 19.833344}
+        - {x: -22.333313, y: -10.1666565}
+        - {x: -21.333313, y: -15.1666565}
+        - {x: -7.333313, y: -23.166656}
+        - {x: 6.666687, y: -23.166656}
+        - {x: 13.666687, y: -21.166656}
+        - {x: 24.666687, y: -11.1666565}
+        - {x: 24.666687, y: 11.8333435}
+    - name: button_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.166687, y: 23.833344}
+        - {x: -23.166687, y: 12.8333435}
+        - {x: -23.166687, y: -20.166656}
+        - {x: -20.166687, y: -23.166656}
+        - {x: 14.833313, y: -23.166656}
+        - {x: 23.833313, y: -17.166656}
+        - {x: 23.833313, y: 12.8333435}
+        - {x: 12.833313, y: 23.833344}
+    - name: button_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.833344}
+        - {x: -15.5, y: 22.833344}
+        - {x: -23.5, y: 12.8333435}
+        - {x: -23.5, y: -10.1666565}
+        - {x: -19.5, y: -23.166656}
+        - {x: 14.5, y: -23.166656}
+        - {x: 23.5, y: -11.1666565}
+        - {x: 23.5, y: 11.8333435}
+        - {x: 11.5, y: 23.833344}
+    - name: button_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333374, y: 23.833344}
+        - {x: -22.333374, y: 18.833344}
+        - {x: -22.333374, y: -17.166656}
+        - {x: -10.333374, y: -22.166656}
+        - {x: -7.333374, y: -23.166656}
+        - {x: 14.666626, y: -23.166656}
+        - {x: 24.666626, y: -11.1666565}
+        - {x: 24.666626, y: 19.833344}
+        - {x: 11.666626, y: 23.833344}
+    - name: button_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.833374, y: 23.833344}
+        - {x: -11.166626, y: 23.833344}
+        - {x: -22.166626, y: 13.8333435}
+        - {x: -22.166626, y: -8.1666565}
+        - {x: -12.166626, y: -21.166656}
+        - {x: -9.166626, y: -23.166656}
+        - {x: 20.833374, y: -23.166656}
+        - {x: 23.833374, y: -12.1666565}
+        - {x: 23.833374, y: 15.8333435}
+        - {x: 18.833374, y: 20.833344}
+    - name: button_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.833344}
+        - {x: -23.5, y: 20.833344}
+        - {x: -23.5, y: -21.166656}
+        - {x: -19.5, y: -23.166656}
+        - {x: 9.5, y: -23.166656}
+        - {x: 23.5, y: -17.166656}
+        - {x: 23.5, y: 11.8333435}
+        - {x: 12.5, y: 23.833344}
+    - name: button_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666672}
+        - {x: -23.5, y: 10.666672}
+        - {x: -23.5, y: -5.3333282}
+        - {x: -21.5, y: -12.333328}
+        - {x: -10.5, y: -22.333328}
+        - {x: 19.5, y: -22.333328}
+        - {x: 23.5, y: -9.333328}
+        - {x: 23.5, y: 17.666672}
+        - {x: 17.5, y: 23.666672}
+    - name: button_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333328, y: 23.666672}
+        - {x: -22.333328, y: 13.666672}
+        - {x: -22.333328, y: -11.333328}
+        - {x: -16.333328, y: -22.333328}
+        - {x: 19.666672, y: -22.333328}
+        - {x: 23.666672, y: -18.333328}
+        - {x: 23.666672, y: 13.666672}
+        - {x: 18.666672, y: 23.666672}
+    - name: button_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 23.666672}
+        - {x: -23.166656, y: 14.666672}
+        - {x: -23.166656, y: -16.333328}
+        - {x: -10.1666565, y: -22.333328}
+        - {x: 12.8333435, y: -22.333328}
+        - {x: 23.833344, y: -12.333328}
+        - {x: 23.833344, y: 21.666672}
+        - {x: 22.833344, y: 23.666672}
+    - name: button_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.666672}
+        - {x: -23.5, y: 16.666672}
+        - {x: -23.5, y: -8.333328}
+        - {x: -16.5, y: -22.333328}
+        - {x: 10.5, y: -22.333328}
+        - {x: 23.5, y: -15.333328}
+        - {x: 23.5, y: 13.666672}
+        - {x: 16.5, y: 23.666672}
+    - name: button_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 16.666672}
+        - {x: 12.666687, y: 23.666672}
+        - {x: -8.333313, y: 23.666672}
+        - {x: -15.333313, y: 22.666672}
+        - {x: -22.333313, y: 11.666672}
+        - {x: -22.333313, y: -8.333328}
+        - {x: -21.333313, y: -15.333328}
+        - {x: -7.333313, y: -22.333328}
+        - {x: 7.666687, y: -22.333328}
+        - {x: 14.666687, y: -20.333328}
+        - {x: 24.666687, y: -10.333328}
+        - {x: 24.666687, y: 8.666672}
+    - name: button_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.666672}
+        - {x: -21.166687, y: 15.666672}
+        - {x: -23.166687, y: 8.666672}
+        - {x: -23.166687, y: -12.333328}
+        - {x: -10.166687, y: -22.333328}
+        - {x: 19.833313, y: -22.333328}
+        - {x: 23.833313, y: -10.333328}
+        - {x: 23.833313, y: 20.666672}
+        - {x: 12.833313, y: 23.666672}
+    - name: button_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.666672}
+        - {x: -23.5, y: 19.666672}
+        - {x: -23.5, y: -12.333328}
+        - {x: -17.5, y: -22.333328}
+        - {x: 14.5, y: -22.333328}
+        - {x: 23.5, y: -18.333328}
+        - {x: 23.5, y: 17.666672}
+        - {x: 10.5, y: 23.666672}
+    - name: button_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.666626, y: 23.666672}
+        - {x: -17.333374, y: 23.666672}
+        - {x: -22.333374, y: 22.666672}
+        - {x: -22.333374, y: -20.333328}
+        - {x: -14.333374, y: -22.333328}
+        - {x: 16.666626, y: -22.333328}
+        - {x: 23.666626, y: -15.333328}
+        - {x: 24.666626, y: -8.333328}
+        - {x: 24.666626, y: 16.666672}
+    - name: button_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.833374, y: 23.666672}
+        - {x: -12.166626, y: 23.666672}
+        - {x: -22.166626, y: 12.666672}
+        - {x: -22.166626, y: -8.333328}
+        - {x: -13.166626, y: -22.333328}
+        - {x: 12.833374, y: -22.333328}
+        - {x: 23.833374, y: -18.333328}
+        - {x: 23.833374, y: 18.666672}
+        - {x: 12.833374, y: 22.666672}
+    - name: button_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 23.666672}
+        - {x: -9.5, y: 23.666672}
+        - {x: -14.5, y: 22.666672}
+        - {x: -23.5, y: 7.6666718}
+        - {x: -23.5, y: -11.333328}
+        - {x: -10.5, y: -22.333328}
+        - {x: 13.5, y: -22.333328}
+        - {x: 23.5, y: -9.333328}
+        - {x: 23.5, y: 7.6666718}
+        - {x: 21.5, y: 14.666672}
+    - name: button_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -22.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 15.5, y: 23.5}
+    - name: button_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.666672, y: 23.5}
+        - {x: -10.333328, y: 23.5}
+        - {x: -20.333328, y: 13.5}
+        - {x: -22.333328, y: 6.5}
+        - {x: -22.333328, y: -8.5}
+        - {x: -17.333328, y: -20.5}
+        - {x: -10.333328, y: -23.5}
+        - {x: 12.666672, y: -23.5}
+        - {x: 23.666672, y: -13.5}
+        - {x: 23.666672, y: 9.5}
+        - {x: 14.666672, y: 22.5}
+    - name: button_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 23.5}
+        - {x: -19.166656, y: 23.5}
+        - {x: -23.166656, y: 12.5}
+        - {x: -23.166656, y: -19.5}
+        - {x: -19.166656, y: -23.5}
+        - {x: 19.833344, y: -23.5}
+        - {x: 23.833344, y: -14.5}
+        - {x: 23.833344, y: 8.5}
+        - {x: 22.833344, y: 14.5}
+    - name: button_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 23.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -23.5, y: -17.5}
+        - {x: -15.5, y: -21.5}
+        - {x: -8.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 18.5, y: 23.5}
+    - name: button_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.666687, y: 10.5}
+        - {x: 12.666687, y: 23.5}
+        - {x: -11.333313, y: 23.5}
+        - {x: -15.333313, y: 22.5}
+        - {x: -22.333313, y: 10.5}
+        - {x: -22.333313, y: -12.5}
+        - {x: -11.333313, y: -23.5}
+        - {x: 13.666687, y: -23.5}
+        - {x: 17.666687, y: -22.5}
+        - {x: 24.666687, y: -8.5}
+        - {x: 24.666687, y: 2.5}
+    - name: button_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.166687, y: 23.5}
+        - {x: -23.166687, y: 11.5}
+        - {x: -23.166687, y: -22.5}
+        - {x: -19.166687, y: -23.5}
+        - {x: 20.833313, y: -23.5}
+        - {x: 23.833313, y: -14.5}
+        - {x: 23.833313, y: 17.5}
+        - {x: 12.833313, y: 23.5}
+    - name: button_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.5}
+        - {x: -23.5, y: 12.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 10.5}
+        - {x: 14.5, y: 23.5}
+    - name: button_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333374, y: 23.5}
+        - {x: -22.333374, y: 16.5}
+        - {x: -22.333374, y: -9.5}
+        - {x: -14.333374, y: -22.5}
+        - {x: -12.333374, y: -23.5}
+        - {x: 15.666626, y: -23.5}
+        - {x: 24.666626, y: -12.5}
+        - {x: 24.666626, y: 20.5}
+        - {x: 20.666626, y: 23.5}
+    - name: button_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.166626, y: 23.5}
+        - {x: -22.166626, y: 14.5}
+        - {x: -22.166626, y: -11.5}
+        - {x: -17.166626, y: -23.5}
+        - {x: 17.833374, y: -23.5}
+        - {x: 23.833374, y: -11.5}
+        - {x: 23.833374, y: 16.5}
+        - {x: 13.833374, y: 23.5}
+    - name: button_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 23.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -23.5, y: 9.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -14.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 14.5}
+        - {x: 12.5, y: 23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
